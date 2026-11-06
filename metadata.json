@@ -1,0 +1,6 @@
+{
+  "name": "摹寫領航員",
+  "description": "專為國小三年級學生設計的五感摹寫學習與形成性引導系統：揚起五感風帆，一步一步把感受寫得更清楚。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
